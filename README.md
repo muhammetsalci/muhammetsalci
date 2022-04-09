@@ -1,4 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=salcimuhammeth&label=Profile%20views&color=0e75b6&style=flat" alt="salcimuhammeth" /> </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/muhammetsalci/muhammetsalci/main/Pembe%20Mavi%20ve%20Siyah%20Gradyan%20Twitch%20Banner%20(1640%20×%20656%20piksel).png" alt="my banner"></a>
+</p>
+
 <h3 align="center">
 Hi there, I'm Muhammet 👋
 </h3>
