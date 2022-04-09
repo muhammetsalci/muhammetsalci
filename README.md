@@ -1,10 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=salcimuhammeth&label=Profile%20views&color=0e75b6&style=flat" alt="salcimuhammeth" /> </p>
 
-<p align="center"><img src="https://github.com/muhammetsalci/muhammetsalci/raw/main/Yaz%C4%B1%20Tahtas%C4%B1%20Ho%C5%9F%20Geldin%20Kanvas%20Banner.gif" alt="my banner"></a>
-</p>
-
-</br>
-
 <p align="center"><img src="https://github.com/muhammetsalci/muhammetsalci/raw/main/Yaz%C4%B1%20Tahtas%C4%B1%20Ho%C5%9F%20Geldin%20Kanvas%20Banner%20(1).gif" alt="my banner"></a>
 </p>
 
