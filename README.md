@@ -13,11 +13,11 @@ I'm a Flutter Developer 📱, .NET Developer 💻!
 
 ### 🤝 Connect with me:
 
-<a href="https://twitter.com/muhammetsalcii" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Muhammet Hüseyin Salcı | LinkedIn" width="50px"/></a>
+<a href="https://twitter.com/muhammetsalcii" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Muhammet Hüseyin Salcı | Twitter" width="50"/></a>
 
-<a href="https://www.linkedin.com/in/muhammet-hüseyin-salcı-04bbb321b/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Muhammet Hüseyin Salcı | LinkedIn" width="50px"/></a>
+<a href="https://www.linkedin.com/in/muhammet-hüseyin-salcı-04bbb321b/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Muhammet Hüseyin Salcı | LinkedIn" width="50"/></a>
 
-<a href="https://instagram.com/salcimuhammeth" target="_blank" rel="noopener noreferrer"><img align="left" src="https://media1.giphy.com/media/eTtXHP8CyQHHa4M8EM/giphy.gif?cid=790b7611801a1e6ac7cbf3fc459d8acc92d644f588a42236&rid=giphy.gif&ct=s" alt="Muhammet Hüseyin Salcı | Instagram" width="50px"/></a>
+<a href="https://instagram.com/salcimuhammeth" target="_blank" rel="noopener noreferrer"><img align="left" src="https://media1.giphy.com/media/eTtXHP8CyQHHa4M8EM/giphy.gif?cid=790b7611801a1e6ac7cbf3fc459d8acc92d644f588a42236&rid=giphy.gif&ct=s" alt="Muhammet Hüseyin Salcı | Instagram" width="50"/></a>
 </br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
