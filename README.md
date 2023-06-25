@@ -8,7 +8,7 @@ Hi there, I'm Muhammet 👋
 </h3>
 
 <h2 align="center">
-I'm a Flutter Developer 📱, .NET Developer 💻!
+I'm a Flutter Developer 📱!
 </h2> 
 
 ### 🤝 Connect with me:
